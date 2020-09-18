@@ -1,0 +1,88 @@
+* 
+{
+    max-width: 700px;
+    margin: auto;
+}
+
+
+.jump
+{
+    font-size: 2em; 
+    font-weight: bold;
+}
+
+.company, .university, .school
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.project
+{
+    font-size: 15px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.position, .assignment
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.detail, .subject
+{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.header 
+{
+    height: 40px;
+    width: 100%;
+    background-color: skyblue;
+}
+
+
+.footer 
+{
+    height: 40px;
+    width: 100%;
+    background-color: yellow;
+}
+
+.left 
+{
+    height: 1725px;
+    width: 45px;
+    background-color: greenyellow;
+    float: left;
+}
+
+.right 
+{
+    height: 1725px;
+    width: 45px;
+    background-color: pink;
+    float: right;
+}
+
+.stuff 
+{
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 1000px;
+}
+
+.head 
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fullname
+{
+    text-align: center;
+}
